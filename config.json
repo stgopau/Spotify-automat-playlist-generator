@@ -1,0 +1,7 @@
+{
+  "window_months": 6,
+  "popularity_threshold": 70,
+  "playlist_size": 100,
+  "market": "CL",
+  "name_template": "Temazos - {month} {year}"
+}
