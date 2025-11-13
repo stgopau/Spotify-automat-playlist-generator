@@ -1,0 +1,828 @@
+{
+  "generated_at": "2025-11-13T12:32:57.612187Z",
+  "market": "CL",
+  "total": 50,
+  "filters": {
+    "min_popularity": 60,
+    "released_within_days": null,
+    "released_before_year": null,
+    "raw": ""
+  },
+  "artists_used": [
+    "Tito \"El Bambino\"",
+    "Arcángel",
+    "Chencho Corleone",
+    "Plan B",
+    "Don Omar"
+  ],
+  "tracks": [
+    {
+      "id": "2a1o6ZejUi8U3wzzOtCOYw",
+      "name": "Danza Kuduro",
+      "artists": [
+        "Don Omar",
+        "Lucenzo"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z",
+        "5bv5RplEOwdCvhq0EILh9E"
+      ],
+      "album": "Meet The Orphans",
+      "release_date": "2010-01-01",
+      "popularity": 83,
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "id": "69Ej1xrGjOcHvIMtMKxK0G",
+      "name": "Dile",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "The Last Don",
+      "release_date": "2003-01-01",
+      "popularity": 83,
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "id": "3KZCP2StVGdWkOKyRZNWA4",
+      "name": "Es un Secreto",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "House of Pleasure",
+      "release_date": "2010-07-20",
+      "popularity": 82,
+      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
+    },
+    {
+      "id": "4SJHHpKhcuXwDsCsPqshXj",
+      "name": "El Efecto",
+      "artists": [
+        "Rauw Alejandro",
+        "Chencho Corleone"
+      ],
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "37230BxxYs9ksS7OkZw3IU"
+      ],
+      "album": "El Efecto",
+      "release_date": "2019-03-15",
+      "popularity": 82,
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
+    },
+    {
+      "id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+      "name": "Me Porto Bonito",
+      "artists": [
+        "Bad Bunny",
+        "Chencho Corleone"
+      ],
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X",
+        "37230BxxYs9ksS7OkZw3IU"
+      ],
+      "album": "Un Verano Sin Ti",
+      "release_date": "2022-05-06",
+      "popularity": 82,
+      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "id": "48NXpYRuvv9izul4oXhqS9",
+      "name": "Salió El Sol",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "King Of Kings",
+      "release_date": "2006-01-01",
+      "popularity": 81,
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "id": "1pLCpA1RN8avJxSD3ZCwhj",
+      "name": "Pa' Que La Pases Bien",
+      "artists": [
+        "Arcángel"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X"
+      ],
+      "album": "El Fenomeno",
+      "release_date": "2008-12-08",
+      "popularity": 80,
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+    },
+    {
+      "id": "6mmPpaltUZK7xjNlBPQQ0p",
+      "name": "Desesperados",
+      "artists": [
+        "Rauw Alejandro",
+        "Chencho Corleone"
+      ],
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "37230BxxYs9ksS7OkZw3IU"
+      ],
+      "album": "VICE VERSA",
+      "release_date": "2021-12-10",
+      "popularity": 78,
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+    },
+    {
+      "id": "79zvVrn65ksbiGQxrtV4I5",
+      "name": "Guaya Guaya",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "The Last Don II",
+      "release_date": "2015-06-16",
+      "popularity": 78,
+      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
+    },
+    {
+      "id": "6NSMQFKgjpQb0KkjMDYIK0",
+      "name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+      "artists": [
+        "Arcángel",
+        "Bad Bunny",
+        "Mambo Kingz",
+        "DJ Luian"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X",
+        "4q3ewBCX7sLwd24euuV69X",
+        "2T1aUibqR2QC2sINIDQOAK",
+        "64aJYyrXljOodnUG6jvhRD"
+      ],
+      "album": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)",
+      "release_date": "2016-09-30",
+      "popularity": 78,
+      "url": "https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0"
+    },
+    {
+      "id": "6NdKkfo7o6IH1Op0jsBDjN",
+      "name": "Si No Le Contesto",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "House of Pleasure",
+      "release_date": "2010-07-20",
+      "popularity": 77,
+      "url": "https://open.spotify.com/track/6NdKkfo7o6IH1Op0jsBDjN"
+    },
+    {
+      "id": "6URNgz911jj10KXTFtevcS",
+      "name": "Por Que Te Demoras?",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "House of Pleasure",
+      "release_date": "2010-07-20",
+      "popularity": 76,
+      "url": "https://open.spotify.com/track/6URNgz911jj10KXTFtevcS"
+    },
+    {
+      "id": "4f49sFQko7jHLEFd3tCf5p",
+      "name": "Ojitos Chiquitos",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "King Of Kings",
+      "release_date": "2006-01-01",
+      "popularity": 76,
+      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
+    },
+    {
+      "id": "4cyYC67XY3weSVmSLdKLP8",
+      "name": "Taboo",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "Meet The Orphans",
+      "release_date": "2010-01-01",
+      "popularity": 76,
+      "url": "https://open.spotify.com/track/4cyYC67XY3weSVmSLdKLP8"
+    },
+    {
+      "id": "3GhmL9fuM8jwGcHCFbeo3v",
+      "name": "Me Prefieres A Mi",
+      "artists": [
+        "Arcángel"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X"
+      ],
+      "album": "Me Prefieres A Mi",
+      "release_date": "2012-01-01",
+      "popularity": 76,
+      "url": "https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v"
+    },
+    {
+      "id": "1PZrHbJjt5t7dP9OGRxcD0",
+      "name": "Dale Don Dale",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "The Last Don",
+      "release_date": "2003-01-01",
+      "popularity": 75,
+      "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
+    },
+    {
+      "id": "0BenZn1xELuxhb7Pjwyjxv",
+      "name": "Hooka",
+      "artists": [
+        "Don Omar",
+        "Plan B"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z",
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Meet The Orphans",
+      "release_date": "2010-01-01",
+      "popularity": 75,
+      "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+    },
+    {
+      "id": "6TZXBJLTIOX6DM6hwCsKw2",
+      "name": "Me Ama Me Odia",
+      "artists": [
+        "Revol",
+        "Ozuna",
+        "Cosculluela",
+        "Arcángel",
+        "Brytiago"
+      ],
+      "artist_ids": [
+        "2wYOpkTJZGByNEOjEnSmoW",
+        "1i8SpTcr7yvPOmcqrbnVXY",
+        "00me4Ke1LsvMxt5kydlMyU",
+        "4SsVbpTthjScTS7U2hmr1X",
+        "00XhexlJEXQstHimpZN910"
+      ],
+      "album": "Me Ama Me Odia",
+      "release_date": "2016-09-01",
+      "popularity": 75,
+      "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
+    },
+    {
+      "id": "0xJFWROBNTBL4sKEuA5pm6",
+      "name": "Guatauba",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Guatauba XXX",
+      "release_date": "2002-05-10",
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
+    },
+    {
+      "id": "0xh2JGmHH1lgRMDaIL94pz",
+      "name": "Que Sensación - Remix",
+      "artists": [
+        "Jezzy",
+        "Arcángel"
+      ],
+      "artist_ids": [
+        "1y8spb5Thg0p5ybNtdk4tu",
+        "4SsVbpTthjScTS7U2hmr1X"
+      ],
+      "album": "Que Sensación (Remix)",
+      "release_date": "2025-10-20",
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
+    },
+    {
+      "id": "6K5BsR04ijf3FHNzjbaagD",
+      "name": "Si Se Da - Remix",
+      "artists": [
+        "Myke Towers",
+        "Farruko",
+        "Arcángel",
+        "Sech",
+        "Zion"
+      ],
+      "artist_ids": [
+        "7iK8PXO48WeuP03g8YR51W",
+        "329e4yvIujISKGKz1BZZbO",
+        "4SsVbpTthjScTS7U2hmr1X",
+        "77ziqFxp5gaInVrF2lj4ht",
+        "1pgDilWYDWLoOgGjf1iHNu"
+      ],
+      "album": "Si Se da Remix",
+      "release_date": "2019-08-02",
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
+    },
+    {
+      "id": "2cRtuTadVm0JzoW4NNTIqI",
+      "name": "Candy",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Love and Sex",
+      "release_date": "2014-09-09",
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/2cRtuTadVm0JzoW4NNTIqI"
+    },
+    {
+      "id": "6doLqlEfsI2zjsYQCNn5z8",
+      "name": "Virtual Diva",
+      "artists": [
+        "Don Omar"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ],
+      "album": "iDon",
+      "release_date": "2009-01-01",
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/6doLqlEfsI2zjsYQCNn5z8"
+    },
+    {
+      "id": "1DrDfpOx4P4LMxFhtOmeyD",
+      "name": "Fanatica Sensual",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Love and Sex",
+      "release_date": "2014-09-09",
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/1DrDfpOx4P4LMxFhtOmeyD"
+    },
+    {
+      "id": "17I27VXKtqXJHL6ReaG0eS",
+      "name": "Hola - Remix",
+      "artists": [
+        "Dalex",
+        "Lenny Tavárez",
+        "Chencho Corleone",
+        "Juhn",
+        "Dímelo Flow"
+      ],
+      "artist_ids": [
+        "0KPX4Ucy9dk82uj4GpKesn",
+        "1pQWsZQehhS4wavwh7Fnxd",
+        "37230BxxYs9ksS7OkZw3IU",
+        "2LmcxBak1alK1bf7d1beTr",
+        "3fZk3Gm5dN5v5yfYMQ04Bx"
+      ],
+      "album": "Yo Te Quiero Pa Mi",
+      "release_date": "2022-02-09",
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/17I27VXKtqXJHL6ReaG0eS"
+    },
+    {
+      "id": "0a6ogDrZBvYgDjILgsQVaJ",
+      "name": "Hace Mucho Tiempo",
+      "artists": [
+        "Arcángel"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X"
+      ],
+      "album": "Sentimiento, Elegancia Y Maldad",
+      "release_date": "2013-11-19",
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/0a6ogDrZBvYgDjILgsQVaJ"
+    },
+    {
+      "id": "71w26UK674tLfGtJFfDSjE",
+      "name": "Ganas De Ti",
+      "artists": [
+        "Arcángel"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X"
+      ],
+      "album": "El Fenomeno",
+      "release_date": "2008-12-08",
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/71w26UK674tLfGtJFfDSjE"
+    },
+    {
+      "id": "0AXKoQuC2NQ8S2QRF0Gu02",
+      "name": "Fronteo",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Love and Sex",
+      "release_date": "2014-09-09",
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02"
+    },
+    {
+      "id": "74j34STf8L6uADnTN69ohv",
+      "name": "El Efecto - Remix",
+      "artists": [
+        "Rauw Alejandro",
+        "Chencho Corleone",
+        "KEVVO",
+        "Bryant Myers",
+        "Lyanno",
+        "Dalex"
+      ],
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "37230BxxYs9ksS7OkZw3IU",
+        "4QrBoWLm2WNlPdbFhmlaUZ",
+        "6w9ToX5slZ4uIdmD17hJ3c",
+        "1Ts9of7VPZElwPQnqnDSfW",
+        "0KPX4Ucy9dk82uj4GpKesn"
+      ],
+      "album": "El Efecto (Remix)",
+      "release_date": "2019-12-13",
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "id": "6DoL1yYIwEW7VZMRaJhoJI",
+      "name": "La Llevo Al Cielo (Ft. Ñengo Flow)",
+      "artists": [
+        "Chris Jedi",
+        "Anuel AA",
+        "Chencho Corleone",
+        "Ñengo Flow"
+      ],
+      "artist_ids": [
+        "0qTZZWLzuD59Un5r1speHm",
+        "2R21vXR83lH98kGeO99Y66",
+        "37230BxxYs9ksS7OkZw3IU",
+        "12vb80Km0Ew53ABfJOepVz"
+      ],
+      "album": "La Llevo Al Cielo (Ft. Ñengo Flow)",
+      "release_date": "2022-05-20",
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
+    },
+    {
+      "id": "1nAk42YH4kmPxaoFcLgiSe",
+      "name": "Mi Cama Huele a Ti (feat. Zion & Lennox)",
+      "artists": [
+        "Tito \"El Bambino\"",
+        "Zion",
+        "Lennox"
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh",
+        "1pgDilWYDWLoOgGjf1iHNu",
+        "7BOLXRhKCofrP6ESS7Owuo"
+      ],
+      "album": "El Patrón (La Victoria)",
+      "release_date": "2015-04-30",
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/1nAk42YH4kmPxaoFcLgiSe"
+    },
+    {
+      "id": "32hCeeK3ayPux4UauNPsgA",
+      "name": "ALV",
+      "artists": [
+        "Arcángel",
+        "Grupo Frontera"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X",
+        "6XkjpgcEsYab502Vr1bBeW"
+      ],
+      "album": "Sentimiento, Elegancia y Más Maldad",
+      "release_date": "2023-11-17",
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
+    },
+    {
+      "id": "7f3HHxwVIJdQJmJxjEsOm0",
+      "name": "Te Dijeron",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Pina Records Presenta : La Fórmula , the Company",
+      "release_date": "2012-11-05",
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/7f3HHxwVIJdQJmJxjEsOm0"
+    },
+    {
+      "id": "5y7DaS3jAc9eZzcSOoUIwU",
+      "name": "Una Locura",
+      "artists": [
+        "Ozuna",
+        "J Balvin",
+        "Chencho Corleone"
+      ],
+      "artist_ids": [
+        "1i8SpTcr7yvPOmcqrbnVXY",
+        "1vyhD5VmyZ7KMfW5gqLgo5",
+        "37230BxxYs9ksS7OkZw3IU"
+      ],
+      "album": "ENOC",
+      "release_date": "2020-09-04",
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "id": "2mnXxnrX5vCGolNkaFvVeM",
+      "name": "La Jumpa",
+      "artists": [
+        "Arcángel",
+        "Bad Bunny"
+      ],
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X",
+        "4q3ewBCX7sLwd24euuV69X"
+      ],
+      "album": "SR. SANTOS",
+      "release_date": "2022-12-01",
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM"
+    },
+    {
+      "id": "5E0gsHgrsCwG4FxTit0ltJ",
+      "name": "Choca",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Love and Sex",
+      "release_date": "2014-09-09",
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/5E0gsHgrsCwG4FxTit0ltJ"
+    },
+    {
+      "id": "2pr7niU3YfbVMQZxzsXubr",
+      "name": "Bandoleros",
+      "artists": [
+        "Don Omar",
+        "Tego Calderón"
+      ],
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z",
+        "3SUT1jjM5hzZj9TLfLZGIP"
+      ],
+      "album": "Los Bandoleros",
+      "release_date": "2024-06-14",
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/2pr7niU3YfbVMQZxzsXubr"
+    },
+    {
+      "id": "2oeyvFG0mFFDHUxhPVObNk",
+      "name": "Flow Natural",
+      "artists": [
+        "Tito \"El Bambino\"",
+        "Beenie Man",
+        "Deevani"
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh",
+        "4L3GTE04bW5N7azA9QPhjA",
+        "0vLywSuTQGaeNiq9pN8sD0"
+      ],
+      "album": "Top Of The Line",
+      "release_date": "2006-01-01",
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+    },
+    {
+      "id": "7e6PEtKY008duLXsAJ3TVQ",
+      "name": "El Amor",
+      "artists": [
+        "Tito \"El Bambino\""
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh"
+      ],
+      "album": "El Patrón (La Victoria)",
+      "release_date": "2015-04-30",
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ"
+    },
+    {
+      "id": "3H7UaBpIlxh6gCC9LBDzsM",
+      "name": "A Que No Te Atreves",
+      "artists": [
+        "Tito \"El Bambino\"",
+        "Chencho Corleone"
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh",
+        "37230BxxYs9ksS7OkZw3IU"
+      ],
+      "album": "Alta Jerarquia (El Patrón)",
+      "release_date": "2014-12-09",
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/3H7UaBpIlxh6gCC9LBDzsM"
+    },
+    {
+      "id": "4Yu2UoU9qNlYL9GeIH65P5",
+      "name": "Mi Vecinita",
+      "artists": [
+        "Plan B"
+      ],
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ],
+      "album": "Love and Sex",
+      "release_date": "2014-09-09",
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/4Yu2UoU9qNlYL9GeIH65P5"
+    },
+    {
+      "id": "1aUGxXCz9QimNkKeiJtzZ7",
+      "name": "105 F Remix",
+      "artists": [
+        "KEVVO",
+        "Farruko",
+        "Chencho Corleone",
+        "Arcángel",
+        "Darell",
+        "Ñengo Flow",
+        "Brytiago",
+        "Myke Towers"
+      ],
+      "artist_ids": [
+        "4QrBoWLm2WNlPdbFhmlaUZ",
+        "329e4yvIujISKGKz1BZZbO",
+        "37230BxxYs9ksS7OkZw3IU",
+        "4SsVbpTthjScTS7U2hmr1X",
+        "1TtXnWcUs0FCkaZDPGYHdf",
+        "12vb80Km0Ew53ABfJOepVz",
+        "00XhexlJEXQstHimpZN910",
+        "7iK8PXO48WeuP03g8YR51W"
+      ],
+      "album": "105 F Remix",
+      "release_date": "2019-09-12",
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
+    },
+    {
+      "id": "5G9apJpojORVj2gwLgmSrD",
+      "name": "¿Por Qué Les Mientes?",
+      "artists": [
+        "Tito \"El Bambino\"",
+        "Marc Anthony"
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh",
+        "4wLXwxDeWQ8mtUIRPxGiD6"
+      ],
+      "album": "Invicto (El Patrón)",
+      "release_date": "2017-04-10",
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/5G9apJpojORVj2gwLgmSrD"
+    },
+    {
+      "id": "12nxXb0ABx0anVAQJQWnqU",
+      "name": "Siente El Boom (feat. Randy)",
+      "artists": [
+        "Boy Wonder CF",
+        "Tito \"El Bambino\"",
+        "Randy"
+      ],
+      "artist_ids": [
+        "01nUdqwuIHCHLZNP2TvYVF",
+        "5fJsY7afrbsyzJj9wdzJMh",
+        "1Qote9MpqMZluWzYGifZUg"
+      ],
+      "album": "Chosen Few El Documental II",
+      "release_date": "2011-09-12",
+      "popularity": 66,
+      "url": "https://open.spotify.com/track/12nxXb0ABx0anVAQJQWnqU"
+    },
+    {
+      "id": "4EDHUfL8gznAr3W57tnYZb",
+      "name": "Un Cigarrillo",
+      "artists": [
+        "Chencho Corleone"
+      ],
+      "artist_ids": [
+        "37230BxxYs9ksS7OkZw3IU"
+      ],
+      "album": "SOLO",
+      "release_date": "2024-09-13",
+      "popularity": 62,
+      "url": "https://open.spotify.com/track/4EDHUfL8gznAr3W57tnYZb"
+    },
+    {
+      "id": "3pYegUivr1Aw9RzrLlUmDZ",
+      "name": "Llueve El Amor",
+      "artists": [
+        "Tito \"El Bambino\""
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh"
+      ],
+      "album": "Invencible (El Patrón)",
+      "release_date": "2014-03-26",
+      "popularity": 62,
+      "url": "https://open.spotify.com/track/3pYegUivr1Aw9RzrLlUmDZ"
+    },
+    {
+      "id": "27HBnGnxhWk4ALgFjyCHmh",
+      "name": "Corazón Roto pt. 3",
+      "artists": [
+        "Brray",
+        "Anuel AA",
+        "Chencho Corleone",
+        "JHAYCO",
+        "Ryan Castro"
+      ],
+      "artist_ids": [
+        "1GKIlPFdcewHtpDVCQ8zmJ",
+        "2R21vXR83lH98kGeO99Y66",
+        "37230BxxYs9ksS7OkZw3IU",
+        "6nVcHLIgY5pE2YCl8ubca1",
+        "7j6DKwmjbxvpQO8h914uEz"
+      ],
+      "album": "El Alma De La Fiesta",
+      "release_date": "2024-12-13",
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/27HBnGnxhWk4ALgFjyCHmh"
+    },
+    {
+      "id": "2ytD5IYEgowbAUZxxniakn",
+      "name": "Mata",
+      "artists": [
+        "Tito \"El Bambino\""
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh"
+      ],
+      "album": "El Patrón (La Victoria)",
+      "release_date": "2015-04-30",
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/2ytD5IYEgowbAUZxxniakn"
+    },
+    {
+      "id": "2OikDCslmF1Y04Szgbc8Hl",
+      "name": "Sol, Playa Y Arena",
+      "artists": [
+        "Tito \"El Bambino\""
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh"
+      ],
+      "album": "It's My Time",
+      "release_date": "2007-01-01",
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "id": "0sfp8mcGLbHPgoWDskWGyy",
+      "name": "Ay Mami (La Sociedad Del Dinero) [Millionaire Trap]",
+      "artists": [
+        "Tito \"El Bambino\"",
+        "Bryant Myers"
+      ],
+      "artist_ids": [
+        "5fJsY7afrbsyzJj9wdzJMh",
+        "6w9ToX5slZ4uIdmD17hJ3c"
+      ],
+      "album": "Ay Mami (La Sociedad Del Dinero) [Millionaire Trap]",
+      "release_date": "2016-10-31",
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/0sfp8mcGLbHPgoWDskWGyy"
+    }
+  ]
+}

@@ -183,6 +183,10 @@ def recommendations_from_artists(
                     if rel >= datetime(released_before_year, 1, 1):
                         continue
 
+                pop = t.get("popularity") or 0
+                if min_popularity is not None and pop < min_popularity:
+                    continue
+
             seen.add(tid)
             collected.append({
                 "id": tid,

@@ -1,0 +1,58 @@
+{
+  "artists": [
+    {
+      "id": "5fJsY7afrbsyzJj9wdzJMh",
+      "name": "Tito \"El Bambino\"",
+      "genres": [
+        "reggaeton",
+        "urbano latino"
+      ],
+      "followers": 4298366,
+      "popularity": 69,
+      "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+    },
+    {
+      "id": "4SsVbpTthjScTS7U2hmr1X",
+      "name": "Arcángel",
+      "genres": [
+        "reggaeton",
+        "trap latino",
+        "urbano latino"
+      ],
+      "followers": 17897103,
+      "popularity": 83,
+      "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+    },
+    {
+      "id": "37230BxxYs9ksS7OkZw3IU",
+      "name": "Chencho Corleone",
+      "genres": [
+        "reggaeton"
+      ],
+      "followers": 2334618,
+      "popularity": 76,
+      "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+    },
+    {
+      "id": "2jSGzJw0ebJLu7OLVSOcBP",
+      "name": "Plan B",
+      "genres": [
+        "reggaeton"
+      ],
+      "followers": 6671193,
+      "popularity": 79,
+      "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+    },
+    {
+      "id": "33ScadVnbm2X8kkUqOkC6Z",
+      "name": "Don Omar",
+      "genres": [
+        "reggaeton",
+        "urbano latino"
+      ],
+      "followers": 16452446,
+      "popularity": 83,
+      "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+    }
+  ]
+}
